@@ -1,30 +1,181 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "8b04",
+      "name": "tony",
+      "email": "dog@gmail.com"
+    },
+    {
+      "id": "2f77",
+      "name": "tony",
+      "email": "dog@gmail.com"
+    },
+    {
+      "id": "556a"
+    },
+    {
+      "id": "0280"
+    },
+    {
+      "id": "614a"
+    },
+    {
+      "id": "0e12"
+    },
+    {
+      "id": "32cc"
+    },
+    {
+      "id": "8358"
+    },
+    {
+      "id": "d120"
+    },
+    {
+      "id": "115e"
+    },
+    {
+      "id": "6963"
+    },
+    {
+      "id": "dc8b"
+    },
+    {
+      "id": "a821"
+    },
+    {
+      "id": "db58"
+    },
+    {
+      "id": "ca05"
+    },
+    {
+      "id": "26ce"
+    },
+    {
+      "id": "3dbd"
+    },
+    {
+      "id": "4900"
+    },
+    {
+      "id": "e273"
+    },
+    {
+      "id": "dee0"
+    },
+    {
+      "id": "596c"
+    },
+    {
+      "id": "d32b"
+    },
+    {
+      "id": "9efb"
+    },
+    {
+      "id": "ba0e"
+    },
+    {
+      "id": "3c34"
+    },
+    {
+      "id": "caa9"
+    },
+    {
+      "id": "6c9e"
+    },
+    {
+      "id": "004b"
+    },
+    {
+      "id": "76ca"
+    },
+    {
+      "id": "d56b"
+    },
+    {
+      "id": "53f9"
+    },
+    {
+      "id": "b509"
+    },
+    {
+      "id": "75b9"
+    },
+    {
+      "id": "a065"
+    },
+    {
+      "id": "b8cf"
+    },
+    {
+      "id": "8798"
+    },
+    {
+      "id": "21fc"
+    },
+    {
+      "id": "0aae"
+    },
+    {
+      "id": "8cde"
+    },
+    {
+      "id": "081a",
+      "name": "User 1",
+      "email": "dog@email.com"
+    },
+    {
+      "id": "5bbb",
+      "name": "User 1",
+      "email": "dog@email.com"
+    },
+    {
+      "id": "fabd",
+      "name": "User 1",
+      "email": "dog@email.com"
+    },
+    {
+      "id": "54f7",
+      "name": "User 1",
+      "email": "dog@email.com"
+    },
+    {
+      "id": "c00d",
+      "name": "User 1",
+      "email": "dog@email.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
